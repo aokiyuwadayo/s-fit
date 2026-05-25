@@ -7,5 +7,4 @@ values (
 )
 on conflict (slug) do update
 set
-  name = excluded.name,
-  anonymity_salt = excluded.anonymity_salt;
+  name = excluded.name;
