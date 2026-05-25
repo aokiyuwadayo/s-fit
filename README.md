@@ -25,6 +25,9 @@
 - 🛡 [Code of Conduct](CODE_OF_CONDUCT.md) — コミュニティ行動規範
 - 🔐 [SECURITY.md](SECURITY.md) — 脆弱性報告先
 
+### PO 向け
+- ✅ [セットアップチェックリスト (setup-checklist.md)](docs/setup-checklist.md) — Supabase / Vercel / Google Cloud / ドメイン取得の手順
+
 ### 設計・分析
 - 🎨 [ブランドビジュアル (brand-guidelines.md)](docs/brand-guidelines.md) — ロゴ・カラー・フォント・トーン
 - 🖼 [ブランドアセット (brand/)](docs/brand/) — ロゴ / ファビコン / OG image の SVG
